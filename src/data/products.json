@@ -1,0 +1,74 @@
+[
+  {
+    "id": "mann-tee-001",
+    "title": "Minimal Logotype Tişört",
+    "slug": "minimal-logotype-tisort",
+    "price": 799,
+    "currency": "TRY",
+    "image": "/src/assets/product-tshirt.jpg",
+    "category": "Üst Giyim",
+    "description": "Premium pamuklu kumaştan üretilen minimal logotype tişört. Rahat kalıp, nefes alabilen yapısıyla günlük kulanıma uygun. Zamansız tasarım.",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "colors": ["Beyaz", "Antrasit", "Bej"]
+  },
+  {
+    "id": "mann-pants-001",
+    "title": "Dartlı Pantolon",
+    "slug": "dartli-pantolon",
+    "price": 1499,
+    "currency": "TRY",
+    "image": "/src/assets/product-pants.jpg",
+    "category": "Alt Giyim",
+    "description": "Rahat paça kesimi ve dart detaylarıyla şık bir görünüm. Esnek kumaş yapısı tüm gün konfor sağlar. Modern ve zamansız tasarım.",
+    "sizes": ["28", "30", "32", "34", "36"],
+    "colors": ["Bej", "Antrasit", "Lacivert"]
+  },
+  {
+    "id": "mann-sweat-001",
+    "title": "Premium Sweatshirt",
+    "slug": "premium-sweatshirt",
+    "price": 1299,
+    "currency": "TRY",
+    "image": "/src/assets/product-sweatshirt.jpg",
+    "category": "Üst Giyim",
+    "description": "Yüksek kaliteli pamuklu kumaştan üretilen sweatshirt. İçi şardonlu, yumuşak dokusu ile maksimum konfor. Minimal tasarım.",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "colors": ["Antrasit", "Bej", "Beyaz"]
+  },
+  {
+    "id": "mann-coat-001",
+    "title": "Minimal Trençkot",
+    "slug": "minimal-trencot",
+    "price": 3499,
+    "currency": "TRY",
+    "image": "/src/assets/product-coat.jpg",
+    "category": "Dış Giyim",
+    "description": "Premium kumaştan üretilen zamansız trençkot. Su itici özelliği ve şık kesimi ile her mevsim kullanıma uygun. Klasik tasarım.",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Bej", "Antrasit"]
+  },
+  {
+    "id": "mann-bag-001",
+    "title": "Deri Tote Çanta",
+    "slug": "deri-tote-canta",
+    "price": 1899,
+    "currency": "TRY",
+    "image": "/src/assets/product-bag.jpg",
+    "category": "Aksesuar",
+    "description": "Premium deri malzemeden üretilen şık tote çanta. Geniş iç hacmi ve dayanıklı dikişleri ile uzun ömürlü kullanım. Minimal tasarım.",
+    "sizes": ["Tek Beden"],
+    "colors": ["Siyah", "Kahverengi"]
+  },
+  {
+    "id": "mann-shoes-001",
+    "title": "Minimal Deri Sneaker",
+    "slug": "minimal-deri-sneaker",
+    "price": 2199,
+    "currency": "TRY",
+    "image": "/src/assets/product-shoes.jpg",
+    "category": "Aksesuar",
+    "description": "Gerçek deriden üretilen minimal sneaker. Rahat iç taban ve nefes alabilen yapısı ile tüm gün konfor. Zamansız tasarım.",
+    "sizes": ["40", "41", "42", "43", "44", "45"],
+    "colors": ["Beyaz", "Siyah"]
+  }
+]
