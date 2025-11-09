@@ -1,0 +1,2 @@
+# Lovable
+mann lovable.ai
